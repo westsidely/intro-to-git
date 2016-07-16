@@ -15,3 +15,15 @@
 # Removing files
 
 # Ignoring files
+
+
+#branches
+
+- Listing all branches
+- Adding a branch
+- Changing brnaches
+- Merging a branch
+- Removing a branch
+-          0---0---0---0
+          /           /
+0 ------ 0---0---0---0
